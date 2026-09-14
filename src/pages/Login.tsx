@@ -36,7 +36,7 @@ export default function Login() {
         <div className="w-20 h-20 bg-gradient-to-br from-rose-500 to-orange-400 rounded-[2rem] rotate-12 flex items-center justify-center shadow-lg shadow-rose-200 mb-6">
           <Heart size={40} className="text-white -rotate-12 fill-white" />
         </div>
-        <h1 className="text-3xl font-extrabold text-slate-800 tracking-tight text-center">Devocional</h1>
+        <h1 className="text-3xl font-extrabold text-slate-800 tracking-tight text-center">Nossa Caminhada</h1>
         <p className="text-slate-500 text-center font-medium mt-2">Crescendo juntos no amor e na fé</p>
       </div>
 

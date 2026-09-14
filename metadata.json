@@ -1,6 +1,6 @@
 {
-  "name": "Devocional",
-  "description": "Aplicativo de gameficação para casais com metas e atividades semanais.",
+  "name": "Nossa Caminhada",
+  "description": "Aplicativo de acompanhamento pastoral para casais com devocionais e missões da mentoria.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
